@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-anyhow = "1.0.57"
+anyhow = "1.0.81"
 envy = "0.4.2"
 pbjson-types = "0.3.0"
 prost = "0.10.1"
