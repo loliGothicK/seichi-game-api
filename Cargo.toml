@@ -9,5 +9,5 @@ envy = "0.4.2"
 pbjson-types = "0.3.0"
 prost = "0.10.1"
 serde = "1.0.137"
-tokio = { version = "1.18.0", features = ["rt-multi-thread"] }
+tokio = { version = "1.37.0", features = ["rt-multi-thread"] }
 tonic = { version = "0.7.1", features = ["compression"] }
